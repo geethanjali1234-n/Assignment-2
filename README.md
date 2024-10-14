@@ -7,6 +7,17 @@
     <!-- Link to external CSS file -->
     <link rel="stylesheet" href="styles.css">
 </head>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geethanjali Nalla </title>
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" href="styles.css">
+</head>
 <body>
     <header>
         <img src=""C:\Users\akhil\Downloads\6bde3d0a-b15c-479b-bb0d-891ce0185dc2.jpg" alt=""C:\Users\akhil\Downloads\6bde3d0a-b15c-479b-bb0d-891ce0185dc2.jpeg"">
@@ -30,17 +41,17 @@
     <section id="PROFILE">
         <h2 class="section-title">PROFILE</h2>
         <p><strong>EDUCATION</strong></p>
-        <p>2020 – 2024: B.E in Computer Science, Jansons Institute of Technology (CGPA: 8.87)  2020 – 2024</p>
-        <p>2018 – 2020: Intermediate, Narayana Junior College (CGPA: 9.2)       2018 – 2020</p>
-        <p>2017 – 2018: Schooling, Vignan English Medium School (CGPA: 9.5)  2017 – 2018</p>
+        <p>2020 – 2024: Btech in Computer Science and engineering , Sri Venkateswara College of Engineering and Technology (CGPA: 7.97)  2020 – 2024</p>
+        <p>2018 – 2020: Intermediate , Rajadhani jr college(CGPA: 8.38) 2018 – 2020</p>
+        <p>2017 – 2018: SSC , Bhashyam public school (CGPA: 9.8)  2017 – 2018</p>
     </section>
 
-    <!-- PERSONAL SKILLS -->
-    <section id="PERSONAL SKILLS">
-        <h2 class="section-title">PERSONAL SKILLS</h2>
-        <p>I excel at problem solving and learning quickly.</p>
-        <p>I have strong communication skills and can interact diplomatically.</p>
-        <P>I am a team facilitator and leader with a friendly and approachable demeanor</P>
+    <!-- SKILLS -->
+    <section id="SKILLS">
+        <h2 class="section-title">SKILLS</h2>
+        <p>I am goot at Python, Web development.</p>
+        <p>I have strong communication skills.</p>
+        <P>I am always passionate to learn new things</P>
     </section>
 
     <!-- SOFTWARE EXPOSURE -->
@@ -60,22 +71,16 @@
     <!-- LAUNGUAGES -->
     <section id="XLANGUAGES">
         <h2 class="LANGUAGES">LANGUAGES</h2>
-        <P>ENGLISH,TELUGU, HINDI,TAMIL</P>
+        <P>ENGLISH,TELUGU, HINDI</P>
 
      <!--CO-CURRICULAR AND EXTRA CURRICULAR ACTIVITIES -->
     <section id="CO-CURRICULAR AND EXTRA CURRICULAR ACTIVITIES">
         <h2 class="CO-CURRICULAR AND EXTRA CURRICULAR ACTIVITIES">CO-CURRICULAR AND EXTRA CURRICULAR ACTIVITIES/h2>
-        <P>Participated in JIT-UTSAV.</P>
-        <P>" Organised and co-ordinated the symposium event".•</P>
-        <P>During my time on campus , I participated in various volunteer programs</P>
+        <P>Dancing.</P>
+        <P>"Playing Games".•</P>
    
      <!-- Blog Section -->
     <section id="blog">
         <h2 class="section-title">Blog</h2>
         <p>Coming Soon: Insights on technology, software development, and innovation!</p>
     </section>
-
-    <!-- Link to external JavaScript file -->
-    <script src="scripts.js"></script>
-</body>
-</html>
